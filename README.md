@@ -1,7 +1,7 @@
 # TeknologiIoTSemesterGanjil2025
 Tugas mata kuliah Teknologi IoT Semester 5 2025 oleh Muhammad Bagaskara(2042231017) dan Galuh Pandu Satrio(2042231019)
 
-# Monitoring Suhu Hidroponik Berbasis IoT dan OTA Updates
+# Implementasi Sensor DS18B20 untuk Monitoring Temperatur Air pada Budidaya Hidroponik Berbasis ESP32-S3 dan OTA-Updates
 
 ## Deskripsi Proyek
 
