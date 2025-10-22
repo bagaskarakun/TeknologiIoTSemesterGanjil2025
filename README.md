@@ -95,7 +95,3 @@ Proyek ini mengimplementasikan sensor DS18B20 untuk monitoring temperatur air pa
 ## Lisensi
 
 Proyek ini dibuat untuk keperluan akademik dan dapat dikembangkan lebih lanjut untuk implementasi komersial dalam sistem pertanian hidroponik berbasis IoT.
-
----
-
-Apakah kamu ingin saya tambahkan contoh **perintah flashing ESP32-S3** dan **setup MQTT di ThingsBoard** juga pada README ini? (supaya lebih lengkap untuk publik GitHub)
